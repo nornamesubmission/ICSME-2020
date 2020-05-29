@@ -1,0 +1,2 @@
+TP: [question generator] generate---> [object]
+TP: [question generator] IsA--> [generator]

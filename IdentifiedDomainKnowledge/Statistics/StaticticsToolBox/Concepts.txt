@@ -1,0 +1,85 @@
+FP: pseudo sd
+TP: degree
+TP: component
+TP: best sd
+TP: p value
+TP: mult gauss scale coeff var
+FP: freedom
+FP: squares regrn
+TP: display
+TP: mult gauss fract errors
+FP: bucket size
+TP: square
+TP: first derivs
+TP: dual methods
+TP: tolerance
+TP: best polynomial degree
+TP: efunction
+TP: equation
+TP: delta
+TP: polynomial dual
+FP: wheel
+TP: coeff
+FP: pointy
+FP: property
+TP: sum
+TP: weight
+TP: sum constraints
+TP: height
+TP: factor
+FP: polynomial mono
+TP: button
+TP: chi square
+TP: calc
+TP: regression
+TP: gauss
+TP: field
+TP: error
+TP: real number
+FP: sum squares
+TP: check
+TP: mult gauss
+TP: penalty weight
+TP: value
+TP: obsn variance
+TP: method
+TP: min
+TP: general linear stats
+TP: general linear
+TP: scale coeff var
+TP: histogram
+TP: second derivative
+TP: size
+TP: color
+TP: corr coeff
+TP: coeffs
+TP: constraint tolerance
+TP: layout
+TP: variance
+TP: analytical derivative
+TP: max
+TP: calc durbin watson
+TP: variable
+TP: mean
+TP: constraint
+TP: gauss scale pvalue
+TP: prob significance
+TP: gauss coeff var
+TP: residual
+TP: scale
+FP: non lin stats
+FP: top
+TP: dual errors
+TP: param
+TP: penalty param
+TP: watson
+TP: sd
+TP: function
+TP: width
+TP: best estimates
+FP: template
+TP: gauss scale
+FP: squares total
+TP: application
+TP: simplex sd
+FP: tol

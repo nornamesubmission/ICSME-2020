@@ -1,0 +1,173 @@
+TP: num players
+FP: pointer
+TP: sql
+TP: display
+FP: break
+TP: decimal
+TP: equation
+TP: join game
+TP: algorithm
+TP: image
+TP: random
+TP: logarithm
+TP: calculate
+TP: medium mode
+TP: hint
+TP: host game
+TP: card values
+TP: expression
+TP: value
+TP: full game
+TP: operation
+TP: count
+TP: game cards
+FP: temporary
+TP: game initialization
+TP: calculation
+TP: set
+TP: width
+FP: private
+TP: statement
+FP: card existence
+FP: green
+TP: maximum
+TP: rounds model
+TP: info
+TP: password
+TP: manager
+TP: equivalent
+TP: randomization
+TP: num card
+TP: game access
+TP: game
+TP: vals
+TP: result
+FP: init modes
+TP: option
+TP: division
+TP: alternative
+TP: convert
+TP: menu
+FP: effect
+TP: operator
+TP: message
+TP: button
+TP: database
+TP: center
+TP: number
+FP: mover
+TP: calculate and something
+TP: representation
+TP: correct
+TP: fraction
+FP: actual
+FP: outf
+TP: fractional
+TP: divide
+TP: incorrect
+TP: area
+TP: capability
+TP: card exists
+TP: math
+TP: instantiate
+TP: mix
+FP: bind
+TP: minus
+TP: multiplier
+TP: final
+FP: op
+TP: root
+TP: point
+TP: word
+TP: variable
+TP: score
+TP: deduction
+TP: mode
+TP: denominator
+TP: visibility
+TP: screen
+TP: implementation
+FP: img
+TP: array
+TP: position
+TP: power
+TP: additional
+TP: game card
+TP: background
+TP: mode names
+TP: check score
+TP: height
+TP: summary
+TP: multi
+TP: component
+TP: map
+TP: remove game
+TP: explicit
+TP: wide
+TP: multiple
+TP: dimension
+TP: functional
+TP: epsilon
+TP: generator
+FP: separate
+FP: replace
+TP: name
+TP: exponent
+TP: reappear
+TP: gbc function
+FP: red
+TP: character
+TP: answer
+TP: error
+TP: player names
+TP: method
+FP: sans serif
+TP: win
+TP: input
+TP: numerator
+TP: scenario
+TP: size
+TP: default
+TP: total score
+TP: functionality
+FP: tracker
+FP: stopwatch
+TP: double
+TP: increment
+TP: hard mode
+TP: exit
+TP: cumulative scores
+TP: users game
+TP: integer
+TP: column
+FP: card
+TP: mathematical
+TP: numberofplayers
+TP: sign
+FP: existence
+TP: index
+TP: easy mode
+TP: player
+TP: digit
+TP: num
+TP: comp mover
+TP: system
+TP: dialog
+TP: diff
+TP: timer
+TP: game diff
+TP: generation
+FP: cost
+TP: precision
+TP: user
+TP: refresh
+TP: music play
+TP: round
+FP: place
+FP: access
+TP: negative
+TP: function
+TP: normal
+TP: player points
+TP: base
+TP: multiplayer

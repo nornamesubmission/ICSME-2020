@@ -1,0 +1,230 @@
+TP: limitation
+FP: market
+FP: its transpose
+TP: dominant
+TP: cosine similarity
+TP: kronecker product
+FP: epsilon
+TP: mod
+TP: substitution
+TP: precision
+TP: eigenvalue
+TP: mod function
+TP: abstract
+TP: cardinality
+TP: equation
+TP: hypot
+FP: inverter factory
+TP: singular value decompositor
+TP: linear
+TP: kronecker
+TP: abstract decompositor
+TP: infinity norm
+FP: solver
+TP: method
+FP: bind
+TP: euclidean
+TP: subtract
+TP: wilkinson
+TP: interval
+TP: max
+TP: inner
+TP: multiple
+FP: minimum size
+FP: place
+TP: dense
+TP: index
+TP: matrix decompositor
+TP: complexity
+TP: linear algebra
+FP: copy
+FP: no pivot gauss inverter
+TP: equal
+TP: argument
+TP: substitution solver
+FP: slice
+TP: serial
+TP: jordan inverter
+TP: outer product
+FP: max accumulator
+TP: sub
+TP: inverter
+FP: kind
+TP: manhattan norm
+TP: matrix
+TP: raw lu decompositor
+FP: compliance
+TP: likelihood
+TP: indices
+FP: npe
+TP: plus
+TP: row matrix
+FP: product accumulator
+TP: gauss
+TP: dense vector
+TP: elimination
+TP: array
+TP: sum
+FP: specific
+TP: random sample
+TP: div
+FP: orthes
+TP: seidel
+FP: access
+TP: power
+TP: vector
+TP: dominant predicate
+TP: qr decompositor
+TP: gauss jordan inverter
+FP: non zero
+FP: swap
+TP: solution
+TP: maximum
+TP: jacobi solver
+TP: iteration
+FP: slice right
+TP: minus
+TP: identity
+TP: const function
+TP: divisor
+TP: lu decompositor
+TP: factor
+TP: square
+TP: density
+TP: functor
+TP: tolerance
+FP: trace
+TP: triangular
+FP: overflow
+TP: hadamard product
+FP: contributor
+TP: default value
+TP: convergence
+TP: transformation
+TP: cholesky decompositor
+TP: consecutive
+TP: real
+TP: sparse matrix
+TP: euclidean norm
+FP: normalize manhattan norm accumulator
+TP: size
+TP: exponent
+TP: transpose
+TP: minimum
+TP: similarity
+TP: matrices
+FP: gauss jordan
+FP: each non
+TP: symmetric matrix predicate
+FP: no pivot gauss
+FP: infinity norm accumulator
+TP: manhattan
+TP: pivot
+TP: alignment
+TP: matrix predicate
+TP: definite
+TP: least norm solver
+TP: addition
+TP: jacobi
+TP: zero
+FP: insert
+TP: inner product
+TP: minus function
+TP: function
+TP: square root solver
+FP: procedure
+TP: length
+TP: inversion
+TP: invert
+TP: diagonal
+TP: gaussian solver
+FP: express
+TP: multiply
+TP: compute
+TP: decompositor
+TP: seidel solver
+FP: solver factory
+TP: constant
+TP: dense matrix
+TP: matrix procedure
+TP: divide
+TP: jordan
+TP: svd
+FP: min accumulator
+TP: positive
+TP: element
+TP: collection
+TP: shape
+TP: algebra
+FP: sum accumulator
+TP: crs
+TP: div function
+FP: decompositor factory
+TP: value
+TP: rotate
+TP: duplication
+FP: qr
+TP: ccs
+FP: slice top
+TP: modulus
+FP: basis
+FP: converter
+TP: sequential
+TP: symmetric matrix
+TP: diagonal matrix
+TP: min
+TP: unit
+TP: column matrix
+TP: major sparse matrix
+FP: write
+TP: plus function
+TP: multiplication
+TP: singular
+TP: eigen decompositor
+TP: cosine
+TP: operation
+TP: crs matrix
+TP: diagonal product
+TP: division
+TP: predicate
+TP: norm
+TP: component
+FP: sweep solver
+TP: raw qr decompositor
+TP: square root
+TP: decomposition
+TP: product
+TP: negative
+FP: blank
+TP: symmetric
+TP: infinity
+TP: subtraction
+FP: rhs
+TP: integer
+TP: algorithm
+TP: number
+TP: set
+FP: law
+TP: matrix accumulator
+TP: matrix function
+TP: multiply function
+TP: capacity
+TP: hash
+TP: ccs matrix
+FP: accumulator procedure
+TP: rank
+TP: arbitrary
+TP: accumulator
+FP: search
+FP: top
+FP: place outer product
+TP: gaussian
+TP: determinant
+FP: warranty
+TP: normalize
+TP: imaginary
+TP: root
+TP: least squares solver
+TP: calculation
+TP: inverse
+FP: manhattan norm accumulator

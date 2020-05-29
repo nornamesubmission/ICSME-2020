@@ -1,0 +1,321 @@
+FP: dump
+TP: pow
+TP: decimal
+TP: trigonometric
+TP: rational
+TP: polynomial
+TP: dot
+TP: computation
+TP: equality
+TP: ceil
+TP: matrix subtract
+TP: product
+TP: arity
+TP: integral
+FP: calculate dim
+TP: matrix sum
+FP: speed
+TP: valid value
+TP: variable node
+TP: base
+TP: minus
+TP: natural logarithm
+TP: power expression
+TP: subtract
+TP: theorem
+TP: max
+TP: div
+TP: sqrt
+TP: cosine
+TP: min
+TP: prefix
+FP: cust func
+TP: matrix variable
+TP: matrix dot
+TP: complex matricies
+TP: matrix partial derivative
+TP: hyperbolic
+TP: cone
+TP: long value
+TP: multiplicative expression
+FP: preprocessor
+TP: arc tangent
+TP: differentiate
+TP: iteration
+TP: conjunction
+TP: quaternions
+TP: binomial
+TP: digit
+TP: substitution
+TP: dimension
+TP: infinity
+TP: intermediate
+TP: matrix differentiate
+TP: odd
+FP: rescan token
+TP: equal expression
+TP: cot
+FP: rp eval
+FP: zero monomial
+FP: transpose
+TP: buff size
+TP: decimal literal
+TP: pascal
+TP: token
+TP: multiple
+TP: matrix rp res
+TP: square
+TP: quaternion
+TP: row
+TP: double
+TP: partial eqns
+TP: literal dfa
+TP: operator
+TP: addition
+TP: mathematical
+TP: crosspower
+TP: random
+FP: nan polynomial
+TP: equal
+TP: permutation
+TP: simplification
+TP: numerical
+FP: expand power
+TP: division
+TP: positive
+TP: calculation
+TP: define
+TP: inverse
+TP: hex value
+TP: max argument
+TP: modulus
+TP: value
+TP: one
+TP: composite
+FP: polynomial creator
+TP: partial derivative
+TP: approximation
+TP: statments
+TP: traversal
+TP: limit
+TP: logarithm
+TP: parameter
+TP: dimensional
+TP: matrix value
+TP: integer literal
+TP: conjugate
+TP: interactive
+TP: inverse operator
+TP: imaginary
+TP: polar value
+TP: zero poly
+TP: count
+TP: matrix power
+TP: matrix rp
+TP: recursive
+TP: additive
+TP: column
+TP: equation
+TP: constant variable
+TP: sine
+TP: standard functions
+TP: interaction
+TP: transitive
+TP: unitary function
+TP: coefficient
+TP: chain
+TP: constant vals
+FP: solve
+TP: evaluate
+TP: matrix
+TP: pair
+TP: quadratic
+TP: precedence
+FP: rp speed
+TP: matrix jep
+TP: perm
+TP: poly
+TP: logical
+TP: diff
+FP: initial fun tab
+TP: negative coefficient
+TP: dec
+TP: binary inverse op
+TP: summation
+TP: vector equation
+TP: positive infinity
+TP: range
+TP: commutative
+TP: tan
+TP: monomial
+TP: absolute
+TP: mod
+TP: multiplication
+TP: complex integer
+TP: precision
+TP: solution
+TP: explicit
+TP: sign
+TP: negative infinity
+TP: matrix speed
+TP: divide
+TP: algorithm
+TP: null values
+TP: ordinal
+TP: zero
+TP: plus minus
+TP: round mode
+FP: expand brackets
+TP: sub
+TP: area
+TP: math
+FP: store
+TP: node
+TP: group subtract
+TP: algebraic
+TP: distributive
+TP: ln
+TP: chain rule
+TP: matrix store
+TP: equivalent
+TP: length
+TP: root node
+TP: algebraic extension
+TP: abelian
+FP: fractal sans
+TP: symbol
+TP: sum
+FP: escape
+FP: ingrediant
+TP: additional
+TP: matrix preprocessor
+TP: taylor
+TP: differentiation
+TP: maximum
+FP: buff
+TP: element
+FP: nan constant
+TP: increment
+TP: uminus
+FP: min argument
+TP: operator node
+TP: number of parameters
+TP: radius
+TP: reflexive
+TP: curve
+TP: abstract
+TP: binary inverse operator
+TP: negative power
+TP: asin
+TP: number
+TP: round
+TP: denominator
+FP: preprocess
+FP: min arg
+TP: cminusi
+TP: matrices
+TP: derivative
+TP: trapezium
+TP: traverse
+FP: initial sym tab
+TP: numerator
+TP: czero
+TP: multiply matrix matrix
+TP: fractal
+TP: power
+TP: sin
+TP: variable
+TP: implicit multiply
+FP: indentifier
+TP: symmetric
+TP: math command
+TP: square root
+TP: re initial
+TP: multiply
+TP: vector
+TP: mode
+TP: integer value
+TP: cosh
+TP: plus
+TP: numeric
+TP: prime
+TP: constant node
+TP: matthew
+FP: increment heap
+TP: exponent
+FP: constant poly
+TP: variable value
+TP: matrix assign
+TP: top node
+TP: simpson
+TP: conditional
+TP: tolerance
+TP: invert
+TP: unary
+TP: relational expression
+TP: function
+TP: subtraction
+TP: root
+TP: comp
+TP: tangent
+TP: comparative
+TP: implicit
+TP: max arg
+TP: zero polynomial
+FP: non jep
+TP: calculate
+TP: standard constants
+TP: expression
+TP: set
+FP: backup
+TP: variable name
+TP: multiplicative
+TP: table
+FP: eval
+TP: cnt
+TP: infinite
+TP: constant value
+TP: floor
+TP: arc cosine
+FP: two states
+TP: acos
+TP: negative
+TP: possibility
+TP: complex
+TP: additive expression
+TP: unary expression
+TP: nary
+TP: pow node
+FP: re initial rounds
+TP: postfix math
+TP: constant
+TP: cos
+TP: vector eqns
+TP: determinant
+TP: evaluation
+FP: nan monomial
+TP: inverse op
+TP: accuracy
+TP: log
+TP: size
+TP: float value
+TP: function node
+TP: nan
+TP: argument
+TP: diagonal
+TP: integer
+TP: degree
+TP: cols
+TP: associative
+TP: arc sine
+TP: calculator
+TP: scale
+TP: atan
+TP: complex value
+TP: abs
+TP: double value
+TP: algebraic extension element
+TP: converse
+FP: move nfa
+TP: add
+TP: real

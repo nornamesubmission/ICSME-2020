@@ -1,0 +1,84 @@
+TP: length
+TP: combin function
+TP: variable
+TP: log function
+FP: term names
+TP: acos
+TP: result
+TP: ceiling
+TP: set
+TP: random function
+TP: number
+TP: ceil function
+TP: tanh function
+TP: tan function
+TP: acos function
+TP: capacity
+TP: round function
+TP: parameter
+TP: capability
+TP: precision
+TP: pascals triangle
+TP: logarithm
+TP: asin function
+TP: abs function
+TP: sin function
+TP: average
+TP: function
+TP: pi function
+TP: cosine
+TP: min function
+TP: max function
+TP: exp function
+FP: parenthesis
+TP: e function
+TP: arc
+TP: ln function
+TP: exponent function
+TP: avg function
+TP: infinity
+FP: parent
+TP: expression
+TP: size
+TP: tangent
+TP: exponent
+TP: rand function
+TP: sign function
+TP: sqrt function
+TP: acosh function
+TP: root
+TP: floor function
+TP: sum function
+FP: bag
+TP: combination
+TP: value
+TP: angle
+TP: fact function
+TP: lg function
+TP: atan function
+TP: absolute function
+TP: consistency
+TP: cos function
+FP: thing
+TP: triangle
+TP: descendent
+TP: sinh function
+TP: cosh function
+TP: sum
+TP: pow function
+TP: condition
+TP: asinh function
+FP: purpose
+TP: sine
+TP: sensitivity
+TP: atanh function
+TP: mod function
+TP: power
+TP: tail
+TP: array
+TP: integer
+TP: digit
+TP: floor
+TP: approximation
+FP: correspond
+TP: sign

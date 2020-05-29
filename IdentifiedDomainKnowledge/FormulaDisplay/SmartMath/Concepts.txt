@@ -1,0 +1,343 @@
+TP: decimal
+TP: instance
+TP: csch
+TP: identifier
+FP: two operands
+TP: unknown
+TP: div
+FP: percent op
+FP: silver
+FP: calc prog
+FP: expr chart
+FP: expr analyzer
+TP: border pair
+FP: fit
+TP: half
+TP: position
+TP: initialization
+FP: btn three
+TP: divisor
+TP: vars
+TP: ln
+FP: writing standard
+TP: bar
+FP: mr erazer
+FP: dexprgraph
+FP: quickhelp
+FP: decimal pnt
+FP: mfp chart
+TP: margin
+FP: jmfp comp
+FP: polar expr
+TP: limit
+FP: parent
+FP: toright land
+TP: sqrt
+TP: len
+TP: mul
+TP: number
+TP: range
+TP: normal
+FP: cursorright
+FP: btn transpose
+FP: red
+FP: comp
+TP: const
+TP: elem
+FP: recog
+FP: flavor
+FP: incorrect answer
+FP: assistant
+TP: configuration
+FP: mr move
+FP: camera
+TP: symbol
+TP: plus
+TP: ceil
+TP: min
+TP: method
+FP: rs bracket
+FP: xyzcurve def
+TP: multiplication
+FP: mr undo
+TP: conjugate
+FP: grp
+TP: equation
+TP: polynomial
+FP: integr prog
+TP: entry
+FP: mr redo
+FP: aqua
+FP: max num
+TP: calculation
+FP: runonpc prog
+FP: navy
+FP: cameraime
+TP: radius
+TP: opposite axis
+FP: polar graph
+TP: chart
+TP: unary
+TP: expr
+FP: flat chart
+TP: scale
+FP: decimal num
+FP: btn six
+FP: calc integ
+FP: quick help
+TP: acos
+TP: transpose
+FP: script
+FP: tutorial
+TP: double
+FP: break
+TP: abs
+FP: analyzer
+FP: lib
+TP: degree
+TP: shift
+TP: cos
+TP: ratio
+FP: top
+TP: bracket
+TP: expression
+TP: parameter
+FP: btn seven
+FP: jfcalc exp
+FP: xygraph
+TP: base
+FP: config xyzgraph
+FP: bin
+TP: gk trans
+FP: ans
+TP: num
+FP: txt
+TP: graph
+FP: btn recog
+TP: division
+TP: size
+TP: action
+FP: webview tutorial
+TP: add
+FP: experror
+FP: toright
+TP: exprs
+FP: cl
+FP: record
+FP: preview
+TP: loop
+TP: inf
+FP: polar chart
+TP: asin
+FP: demon
+FP: incorrect num
+FP: btn pi
+FP: ime
+FP: cur pos
+FP: lime
+TP: divide
+FP: keyboardime
+TP: height
+TP: signum
+FP: pow op
+TP: pow
+TP: invertible
+TP: atan
+TP: definition
+FP: fuchsia
+TP: map
+TP: rectangle
+TP: substraction
+FP: mr resize
+FP: move
+FP: btn ok
+TP: infinite
+FP: mr camera
+FP: camera preview
+FP: cfg
+TP: sinh
+TP: rotate
+FP: hint
+TP: possibility
+FP: btn camera
+FP: scriptedt
+TP: condition
+FP: axis marks
+TP: operand
+FP: cache
+FP: calc optr wrap
+FP: btn four
+TP: prefix
+FP: mmfp chart
+TP: sin
+FP: mr zoom fit
+FP: wv sm
+TP: digit
+FP: mb
+TP: operator
+FP: converter
+FP: btn del
+TP: factorial
+FP: integ
+FP: olive
+TP: coord axis
+TP: angle
+FP: min num
+TP: zero
+FP: anim
+TP: var
+FP: experror divisor
+TP: mode
+FP: bitwise
+TP: param
+FP: calc assistant
+FP: op
+FP: curve settings
+FP: mchk
+TP: dived pattern identifer
+TP: root
+FP: overflow
+FP: slvreto
+TP: multiply
+FP: pc
+FP: note
+TP: error
+FP: quick recog
+FP: btn times
+FP: edt txt
+FP: xycurve def
+TP: default
+FP: curve ctrl btns
+TP: precision
+FP: smart calc proc lib
+TP: dimension
+FP: polar expr chart
+FP: place
+FP: right bracket
+TP: trans
+FP: land
+FP: xyzgraph
+TP: system
+TP: con
+TP: rect
+TP: matrices
+FP: calc integral script
+TP: menu
+FP: mr pen
+FP: contants btn
+TP: vector
+TP: sech
+TP: power
+TP: milli
+TP: result
+TP: accuracy
+TP: tanh
+TP: operation
+TP: axis
+TP: complex
+TP: config
+TP: integ gk trans
+TP: button
+TP: invert
+TP: dim
+FP: xaxis
+TP: def
+TP: constant
+TP: sec
+TP: generator
+TP: exp
+TP: statement
+FP: camera ime
+FP: lack
+FP: btn
+FP: texture mgr
+TP: equal
+TP: recalc
+TP: numeric
+TP: width
+FP: yaxis
+TP: set
+FP: preview help
+TP: integrate
+FP: experror lack
+FP: prog
+TP: exception
+FP: btn oki
+TP: max
+FP: polar expr graph
+TP: product
+TP: determinant
+TP: length
+FP: ogl chart
+TP: real
+TP: count
+TP: variable
+FP: xyz graph
+FP: gui
+FP: curve btn
+FP: config dexprgraph
+TP: convt jq
+TP: table
+TP: matrix
+FP: medt
+TP: curve
+TP: cot
+TP: event
+TP: touch
+TP: func
+TP: shape
+TP: sqr
+TP: neg
+TP: exponent
+TP: round
+FP: ls bracket
+TP: csc
+TP: integer
+FP: pair
+FP: smartcalc prog
+FP: edt
+FP: btn zero
+FP: experror operand
+FP: white
+FP: chkbox
+FP: interrupter
+TP: medium
+TP: area
+TP: pi
+FP: btn theta
+FP: edttxt
+FP: btn five
+TP: version
+FP: experror num
+TP: array
+FP: msg
+TP: n sqrt
+TP: params
+FP: maroon
+FP: teal
+FP: edt txt times
+FP: black
+FP: btn two
+TP: square
+TP: index
+TP: unit
+TP: math
+TP: dot
+TP: tan
+TP: value
+FP: pen
+TP: item
+TP: sub
+TP: sign
+TP: compare
+FP: ml
+TP: calc
+TP: function
+FP: solver
+TP: gauss
+FP: wrap
+TP: log
+FP: erazer
+TP: integration
+TP: floor
+TP: cosh

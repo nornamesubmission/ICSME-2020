@@ -1,0 +1,30 @@
+TP: top bar
+FP: post create
+FP: swipe
+FP: drag
+FP: move
+TP: evaluation function
+FP: backspace
+TP: tangant 
+TP: addition
+FP: frag
+TP: click bottom
+FP: keyboard
+TP: math item
+TP: minus
+FP: parent
+TP: default value
+TP: count
+TP: fragment
+TP: result
+TP: math parser
+TP: cosine
+TP: home menu
+TP: sine
+FP: resume
+TP: user action
+TP: input number
+TP: user view
+TP: game button
+TP: plus
+TP: main menu

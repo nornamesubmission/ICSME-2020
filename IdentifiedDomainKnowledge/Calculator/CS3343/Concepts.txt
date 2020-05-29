@@ -1,0 +1,36 @@
+TP: subtraction
+FP: user
+TP: factorial
+TP: cos function
+TP: tangent
+FP: bracket
+TP: equation
+TP: exponentiation
+TP: math
+TP: cal
+TP: value
+TP: trigo
+TP: negative
+TP: log function
+FP: precedence
+TP: calculator
+TP: multiplication
+TP: cotangent
+TP: cos
+TP: operator
+TP: secant
+FP: postfix
+TP: cosecant
+TP: sine
+FP: expr tree
+TP: sin
+FP: infix
+TP: operand
+TP: sign
+TP: expression
+TP: tan function
+TP: division
+TP: addition
+TP: cosine
+TP: tan
+TP: sin function

@@ -1,0 +1,102 @@
+TP: median
+FP: features statistics
+FP: accurate
+TP: algorithm
+TP: layout
+FP: record pair
+TP: franctional
+TP: deviation
+FP: dex size
+TP: set
+TP: zero
+TP: integer
+TP: base
+TP: table
+FP: marker
+TP: percentage
+TP: fraction
+TP: version
+TP: max
+TP: result
+FP: dex
+FP: non zero
+FP: similar
+TP: mean
+TP: computation
+TP: task
+FP: arsc size
+TP: count
+TP: arithmetic
+FP: pair
+TP: ratio
+FP: prop
+FP: full compare
+FP: size statistics
+TP: args
+TP: size
+TP: manager
+TP: element
+FP: dimen
+TP: additional
+FP: our instances
+FP: compress
+TP: logger
+TP: resizeable
+TP: non
+FP: algorithm same
+TP: exception
+TP: value
+FP: base dir
+TP: instance
+TP: difference
+TP: statistics
+TP: number
+FP: arithmetic mean
+TP: comparison
+FP: statistics processors
+TP: option
+TP: analysis method
+FP: uses feature
+TP: default
+TP: entry
+TP: 
+TP: maximum
+FP: extreme
+TP: statistic
+FP: land
+FP: unspecified
+TP: name
+TP: resource
+TP: min
+TP: prefix
+FP: duplicate
+FP: arguments factory
+TP: modus
+FP: framework
+FP: support
+TP: expression
+TP: variance
+TP: argument
+TP: index
+FP: max inventary
+FP: basic compare
+TP: feature
+TP: line
+FP: temp
+TP: info
+TP: batch
+FP: run
+TP: feture selection
+FP: dir
+TP: helper
+TP: hash
+FP: used features
+TP: interval
+TP: analyze
+TP: threshold
+FP: atribute
+TP: compare
+TP: metadata
+FP: finder
+TP: mode
+FP: min inventary

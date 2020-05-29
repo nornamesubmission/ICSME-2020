@@ -1,0 +1,103 @@
+TP: language
+TP: definite
+TP: array
+FP: percent wrong intro
+TP: infinity
+TP: limit
+TP: integral
+TP: software
+TP: display
+TP: integrals
+TP: substitution
+TP: recovery
+TP: question
+FP: num answers
+TP: optimization
+TP: solving
+TP: answers
+FP: the curve
+TP: quiz
+TP: def
+TP: missed derivatives
+TP: player
+TP: limitation
+TP: courses
+TP: rate
+TP: topic
+FP: derivatives topic tab
+FP: definite integrals
+TP: item
+TP: percent
+FP: tab num
+TP: continuity
+TP: answer
+TP: num
+TP: initialization
+TP: 
+TP: express
+TP: tabs
+TP: curve
+TP: topics
+TP: button
+TP: diff
+TP: response
+TP: missed limits
+TP: derivatives
+TP: intro
+TP: retry
+TP: options
+FP: integrals definite tab
+TP: rates
+TP: implicit
+TP: spinner
+TP: percent wrong limits
+TP: percent wrong continuity
+TP: differentiation
+TP: result
+TP: limits
+TP: video
+FP: present
+TP: possible
+TP: sums
+TP: constructor
+FP: intro
+TP: final
+TP: missed integrals
+TP: derivatives related rates
+TP: count
+TP: double
+TP: view
+TP: quizzes
+TP: definitions
+TP: context
+TP: derivative
+TP: compliance
+TP: feedback
+TP: wrong
+TP: intent
+TP: position
+TP: rules
+TP: questions
+TP: dialog
+TP: riemann
+FP: percent wrong related rates
+FP: subclass
+TP: abstract
+TP: pager
+TP: read text
+TP: indefinite integrals
+TP: number
+TP: variable
+FP: developer
+TP: area
+FP: pixel
+TP: size
+TP: success
+TP: indefinite
+TP: menu
+TP: videos
+TP: submit
+TP: fragment
+FP: derivatives tabs
+TP: tab
+TP: failure

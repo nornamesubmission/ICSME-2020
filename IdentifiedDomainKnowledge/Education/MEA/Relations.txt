@@ -1,0 +1,6 @@
+TP:  [initialization success] IsA--> [success]
+FP:  [developer key] IsA--> [key]
+FP:  [tube player provider] IsA--> [provider]
+TP:  [question] HasProperty---> [question]
+TP:  [videos] HasProperty---> [youtube player provider]
+FP:  [videos] HasProperty---> [you tube player provider]

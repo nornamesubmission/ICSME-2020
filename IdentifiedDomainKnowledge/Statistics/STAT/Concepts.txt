@@ -1,0 +1,34 @@
+TP: interval
+TP: statistics
+TP: coefficien
+TP: P value
+TP: sum vector
+TP: mean
+FP: symbol
+TP: norm
+FP: place
+FP: gamma
+TP: beta regularized
+TP: variable
+TP: distribution
+TP: square
+TP: stud quant
+TP: minus
+FP: purpose
+FP: warranty
+TP: normal p test
+TP: probability
+TP: calculus
+TP: sum
+TP: round
+TP: chi square
+FP: copy
+TP: factorial
+TP: infinity
+FP: fact
+TP: vector
+TP: statistic analysis
+TP: quant
+TP: chi square quant
+FP: student
+TP: variance

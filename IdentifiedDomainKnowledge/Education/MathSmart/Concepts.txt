@@ -1,0 +1,89 @@
+TP: score
+TP: assignment question
+TP: line
+FP: argument
+TP: screen
+TP: min
+TP: weight
+FP: dc
+TP: period
+TP: statment
+TP: assignment progress
+FP: warn
+TP: dialogue
+TP: assignment topic
+FP: interface
+FP: incorrect answer coeff
+FP: logic
+TP: generation
+TP: student
+FP: ass topic
+TP: function
+TP: loop function
+TP: view
+FP: preview
+TP: display
+TP: logout
+TP: available assignments
+TP: layout
+TP: current question
+FP: btn
+TP: question statment
+TP: coeff
+TP: number
+TP: question score
+TP: password
+TP: completed questions
+TP: description
+FP: preview btn
+TP: teacher
+TP: handler
+TP: assignment handler
+TP: value
+TP: information
+TP: correct answer
+TP: login
+TP: submission period
+TP: total questions
+TP: connector
+TP: user name
+TP: next question
+TP: exception
+TP: add question
+TP: answer
+TP: rand
+FP: report
+FP: ah
+TP: current score
+TP: progress
+TP: addition
+TP: available questions
+TP: assignment score
+TP: formula
+TP: artifact
+TP: answer button
+TP: numerical 
+TP: min correct answers
+TP: wrong answer
+TP: question
+TP: spinner
+TP: feedback message
+TP: username
+TP: ceil
+FP: incorrect answer
+TP: difficulty
+TP: database
+TP: constructor
+FP: nxtbtn
+TP: assignment
+FP: variant
+TP: section
+TP: answser
+TP: answer option
+TP: overall score
+TP: user
+TP: fraction
+TP: add assignment
+FP: btn click
+TP: assignment preview
+TP: collection
